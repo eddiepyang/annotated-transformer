@@ -1,5 +1,4 @@
-# R files
-*.RData
-*.Rhistory
+# ignore data
 /.Rproj.user/*
-.Rproj.user
+/.data/*
+*/.ipynb_checkpoints/*
